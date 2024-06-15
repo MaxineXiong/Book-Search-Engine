@@ -11,8 +11,12 @@ A powerful book search engine built in SQLite (backend) and Python with Tkinter 
 
 
 
+https://github.com/MaxineXiong/Book-Search-Engine/assets/55864839/d8395ef0-4bd2-47c7-8f14-59cb7f76fd9e
 
-https://github.com/MaxineXiong/Book-Search-Engine/assets/55864839/41a3d832-8a0e-4e54-90c8-8242b0d0d495
+
+
+
+
 
 
 
