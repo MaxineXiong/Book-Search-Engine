@@ -8,7 +8,9 @@
 
 ## Project Description
 
-The Book Search Engine is a desktop application developed in Python using the *Tkinter* and *CustomTkinter* library. It enables users to interact with a local SQLite database to manage and query book information effectively. This application is particularly useful for librarians, bookstore owners, or any book enthusiast who needs to manage a collection of books.
+The **Book Search Engine** is a desktop application developed in Python using the *Tkinter* and *CustomTkinter* library. It enables users to interact with a local SQLite database to manage and query book information effectively. This application is particularly useful for librarians, bookstore owners, or any book enthusiast who needs to manage a collection of books.
+
+You can check out the application demo video below:
 
 https://github.com/MaxineXiong/Book-Search-Engine/assets/55864839/d8395ef0-4bd2-47c7-8f14-59cb7f76fd9e
 
