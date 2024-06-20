@@ -81,6 +81,8 @@ To run the Book Search Engine program on your local computer, please follow thes
     python main.py
     ```
 
+6. (Optional) you can download the EXE application directly from [here](https://1drv.ms/u/s!AhxVr7ogXVBRlTIq4ZGsVyxullUH?e=9AWlq2).
+
 <br>
 
 ## **Contribution**
